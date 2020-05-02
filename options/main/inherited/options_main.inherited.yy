@@ -2,7 +2,7 @@
     "option_window_colour": {
         "Value": 4278190080
     },
-    "option_gameguid": "b626dd19-33d8-470e-9757-5c38ae526823",
+    "option_gameguid": "e8e317a2-936d-40e4-b04d-af7aa7ef9663",
     "option_game_speed": 60
 }←1225f6b0-ac20-43bd-a82e-be73fa0b6f4f|{
     "targets": 461609314234257646
